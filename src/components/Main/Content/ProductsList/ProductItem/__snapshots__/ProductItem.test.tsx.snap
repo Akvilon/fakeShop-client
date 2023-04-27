@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductItem component should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="chakra-card css-1uci29l"
+    data-testid="product-item"
+  >
+    <div
+      class="chakra-card__body css-0"
+    >
+      <img
+        alt=""
+        class="chakra-image css-j17amb"
+        src=""
+      />
+      <div
+        class="chakra-stack css-10aolb9"
+      >
+        <h2
+          class="chakra-heading css-0"
+        >
+          title
+        </h2>
+      </div>
+    </div>
+    <hr
+      aria-orientation="horizontal"
+      class="chakra-divider css-1upb9tn"
+    />
+    <div
+      class="chakra-card__footer css-k008qs"
+    >
+      <div
+        class="chakra-button__group css-1mlmbpp"
+        data-orientation="horizontal"
+        role="group"
+      >
+        <button
+          class="chakra-button css-1jivwxj"
+          type="button"
+        >
+          Buy now
+        </button>
+        <button
+          class="chakra-button css-ox7e31"
+          type="button"
+        >
+          Add to cart
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
